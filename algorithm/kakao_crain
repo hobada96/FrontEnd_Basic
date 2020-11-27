@@ -1,0 +1,30 @@
+function solution(board, moves) {
+    var answer = 0;
+    var i= 0;
+    var k = 0;
+    var j=0;
+    var array = [];
+    var count = 0;
+    var array_count = 0;
+    
+    for(k=0;k<moves.length;k++){
+        for(i=0;i<board.length;i++){
+            if(board[i][moves[j]-1] != 0){
+                array.push(board[i][moves[j]-1]);
+                board[i][moves[j]-1] = 0;
+                break;
+            }
+        }
+        j++;
+    }
+
+    for(j=0;j<array.length;j++){
+        for(i=0;i<array.length-1;i++){
+            if(array[i]== array[i+1]){
+                count += 2;    
+                array.splice(i,2);
+            }
+        }
+    }
+    return count
+}

@@ -58,3 +58,24 @@ call   즉시호출
 apply  즉시호출
 
 bind 새로운 함수생성
+
+
+
+
+
+## Prototype
+
+Cunstructor        prototype
+
+new
+
+instance                (__proto__)
+
+
+
+prototype 
+
+
+
+Prototype link 와 Prototype Object
+
