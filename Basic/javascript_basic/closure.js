@@ -1,4 +1,4 @@
-var createCar = function(f,p){
+var createCar = (f,p)=>{
     var fuel = f;
     var power = p;
     var total = 0;
@@ -13,7 +13,6 @@ var createCar = function(f,p){
             fuel -= wastFuel;
             total += km;
 
-            
         },
 
         make: function(){
