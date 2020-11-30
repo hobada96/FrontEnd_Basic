@@ -29,6 +29,10 @@ class App extends Component {
       information: information.concat({ id: this.id++, ...data })
     })
   }
+  handleRemove = (data)=>{
+    const {info, onRemove} = this.props;
+    onRemove(info.id);
+  }
 
   render() {
     return (
