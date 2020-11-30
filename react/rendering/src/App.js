@@ -29,9 +29,11 @@ class App extends Component {
       information: information.concat({ id: this.id++, ...data })
     })
   }
-  handleRemove = (data)=>{
-    const {info, onRemove} = this.props;
-    onRemove(info.id);
+  handleRemove = (id)=>{
+    const {information} = this.state;
+    this.setState({
+      information: information.filter(info => info.id !== id) // filter : 주어진 함수의 테스트를 통과하는 요소들을 모아 새로운 배열로.
+    })
   }
 
   render() {
@@ -40,7 +42,9 @@ class App extends Component {
         <PhoneForm
           onCreate={this.handleCreate}
         />
-        <PhoneInfoList data={this.state.information} />
+        <PhoneInfoList 
+          data={this.state.information}
+          onRemove = {this.handleRemove} />
       </div>
     );
   }

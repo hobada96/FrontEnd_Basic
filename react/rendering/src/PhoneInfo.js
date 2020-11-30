@@ -9,6 +9,11 @@ class PhoneInfo extends Component {
         }
     }
 
+    handleRemove = (id) =>{
+        const {info, onRemove} = this.props;
+        onRemove(info.id);
+    }
+
     render() {
         const style = {
             border: '1px solid black',
@@ -25,6 +30,7 @@ class PhoneInfo extends Component {
             <div style={style}>
                 <div><b>{name}</b></div>
                 <div>{phone}</div>
+                <button onClick={this.handleRemove}>삭제</button>
             </div>
         );
     }
