@@ -1,0 +1,15 @@
+{
+  "name": "front-end",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "android": "yarn --cwd mobile android"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces": [
+    "mobile"
+  ]
+}
