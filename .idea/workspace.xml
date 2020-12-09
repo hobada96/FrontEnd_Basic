@@ -6,7 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf027f85-7034-4a78-8835-57ab5ddd8471" name="Default" comment="add ajax.md">
+    <list default="true" id="cf027f85-7034-4a78-8835-57ab5ddd8471" name="Default" comment="react-native typeScript template init and make mono Repo with lerna">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Blog/front-end" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DEV/OpenWebtoon/front-end/mobile" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -116,7 +116,8 @@
       <workItem from="1607257133807" duration="3380000" />
       <workItem from="1607262819703" duration="470000" />
       <workItem from="1607264744958" duration="49000" />
-      <workItem from="1607267319108" duration="308000" />
+      <workItem from="1607267319108" duration="573000" />
+      <workItem from="1607315958392" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="add ajax.md">
       <created>1607267361845</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607267623057</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="react-native typeScript template init and make mono Repo with lerna">
+      <created>1607267817180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607267817180</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -174,6 +182,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ajax.md" />
     <MESSAGE value="add read.md files cocoaPod, Git-flow, MonoRepo, Node modules, Semantic-Versioning, TBD" />
-    <option name="LAST_COMMIT_MESSAGE" value="add read.md files cocoaPod, Git-flow, MonoRepo, Node modules, Semantic-Versioning, TBD" />
+    <MESSAGE value="react-native typeScript template init and make mono Repo with lerna" />
+    <option name="LAST_COMMIT_MESSAGE" value="react-native typeScript template init and make mono Repo with lerna" />
   </component>
 </project>
