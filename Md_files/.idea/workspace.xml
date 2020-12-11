@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4e7a77b-351c-4522-a64d-2ee9c848e530" name="Default Changelist" comment="">
+    <list default="true" id="54da62ca-67c1-4527-9814-7d13f964d1f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog/front-end/mobile/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Blog/front-end/mobile/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,39 +14,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/front-end/package.json" />
-  </component>
-  <component name="ProjectId" id="1lHrKaS5NNhmOC4ILd8tXaMgL0e" />
+  <component name="ProjectId" id="1lNTyB6Ht70no0bccz3vHiLl5S8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DEV/OpenWebtoon/front-end" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e4e7a77b-351c-4522-a64d-2ee9c848e530" name="Default Changelist" comment="" />
-      <created>1607264794569</created>
+      <changelist id="54da62ca-67c1-4527-9814-7d13f964d1f9" name="Default Changelist" comment="" />
+      <created>1607436800839</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607264794569</updated>
-      <workItem from="1607264795699" duration="2036000" />
-      <workItem from="1607349257505" duration="650000" />
-      <workItem from="1607436585986" duration="45000" />
+      <updated>1607436800839</updated>
+      <workItem from="1607436801965" duration="1232000" />
     </task>
+    <task id="LOCAL-00001" summary="What is Hermes">
+      <created>1607437097559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607437097559</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="What is Hermes" />
+    <option name="LAST_COMMIT_MESSAGE" value="What is Hermes" />
   </component>
 </project>

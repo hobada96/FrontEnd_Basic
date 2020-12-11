@@ -8,6 +8,76 @@
   <component name="ChangeListManager">
     <list default="true" id="cf027f85-7034-4a78-8835-57ab5ddd8471" name="Default" comment="react-native typeScript template init and make mono Repo with lerna">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/lerna.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/__tests__/App-test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/_BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/debug/java/com/mobile/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/java/com/mobile/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/java/com/mobile/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile-tvOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile-tvOSTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile.xcodeproj/xcshareddata/xcschemes/mobile-tvOS.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile.xcodeproj/xcshareddata/xcschemes/mobile.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobile/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobileTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/ios/mobileTests/mobileTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/mobile/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/front-end/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Md_files/Git-flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/Md_files/Git-flow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Md_files/MonoRepo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Md_files/MonoRepo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Md_files/Node_modules.md" beforeDir="false" afterPath="$PROJECT_DIR$/Md_files/Node_modules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/react.md" beforeDir="false" afterPath="$PROJECT_DIR$/react/react.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +114,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DEV/OpenWebtoon/front-end/mobile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AttendanceApp" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\FrontEnd_Basic\AttendanceApp\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -118,6 +189,7 @@
       <workItem from="1607264744958" duration="49000" />
       <workItem from="1607267319108" duration="573000" />
       <workItem from="1607315958392" duration="607000" />
+      <workItem from="1607661343155" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="add ajax.md">
       <created>1607267361845</created>

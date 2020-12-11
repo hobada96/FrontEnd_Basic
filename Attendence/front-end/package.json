@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lerna": "^3.22.1"
+  },
+  "name": "front-end",
+  "devDependencies": {
+    "add": "^2.0.6",
+    "module-1": "^0.0.0"
+  }
+}

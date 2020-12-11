@@ -9,3 +9,11 @@ hotfix : master 브랜치로 배포를 했는데 버그가 생겼을 떄 긴급 
 Branch를 만들고, PR을 날려서 개발을 하는 방식?
 
 출처: https://uxgjs.tistory.com/183 [UX 공작소]
+
+
+
+TBD (Truken based Development)
+
+머지 쉽게 할려고.
+
+기능개발 시간이 길어지면 길어질 수록 머지 하기 어렵다. 그래서 이 전략을 쓴다.
