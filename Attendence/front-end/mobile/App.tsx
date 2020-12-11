@@ -9,14 +9,10 @@
  */
 
 import React from 'react';
-import {Text} from 'react-native';
+import Router from './screens/router';
 declare const global: {HermesInternal: null | {}};
 
 const App = () => {
-  return (
-    <>
-      <Text>Hello</Text>
-    </>
-  );
+  return <Router />;
 };
 export default App;
