@@ -1,0 +1,1 @@
+import React from 'react';import Home from './Home'import Event from './Event'export default () => {    return (        <div>            Hello            <Home />            <Event />        </div>    )}
