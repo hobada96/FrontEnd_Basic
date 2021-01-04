@@ -145,23 +145,7 @@
 
 
 
-===axios==
 
-apolo
-
-리엑트 react
-
-리덕스 redux
-
-리덕트사가 redux-saga
-
- 화면그릴때 meterial-ui *
-
-styled component
-
-emotion
-
-systemed component
 
 
 
