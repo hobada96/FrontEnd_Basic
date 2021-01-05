@@ -1,0 +1,1 @@
+//남이 푼 코드function solution(s) {    // const array = new Array().filter((x,i) => x = s[i]);    return s.split('').sort().reverse().join('');}// 내가 푼 코드function solution(s) {    const array = [];    for(let i = 0 ; i < s.length ;i++){        array.push(s[i]);    }    return array.sort().reverse().join('');}
