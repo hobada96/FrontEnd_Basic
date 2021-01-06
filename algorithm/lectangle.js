@@ -1,0 +1,1 @@
+//내가 푼 방식const gcd = (w, h)=> {    return h == 0 ? w : gcd(h, w % h)};function solution(w, h) {    return w * h - (w + h - gcd(w,h))}// 사각형 총 개수 w * h - (w + h - 최대공약수)
