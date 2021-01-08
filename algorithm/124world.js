@@ -1,0 +1,1 @@
+// const solution = n => f(n - 1);// const f = n => n < 3//     ?'124'[n]//     : f(div(n, 3) - 1) + f(n % 3);// const div = (a, b) => parseInt(a / b);const DEGREE = 3;const solution = n => f(n-1);const f = n => n < DEGREE    ?'124'[n]    :f(div(n)) + f(n % DEGREE);const div = (a) => parseInt(a / DEGREE)-1;console.log(solution(38))
