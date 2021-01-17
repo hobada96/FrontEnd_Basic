@@ -1,0 +1,1 @@
+function solution(citations) {    for(let i=citations.length;i>=0;i--){        if(citations.filter(x => x >= i).length >= i){            return i        }    }}
