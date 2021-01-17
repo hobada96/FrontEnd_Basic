@@ -1,0 +1,1 @@
+function solution(numbers) {    if(numbers.filter(x => x != 0).length === 0) return "0";    return numbers.sort(        function(a,b){            const strA = String(a)            const strB = String(b)            if(Number(strA.concat(strB)) >= Number(strB.concat(strA))) return -1;            else return 1        }).join('')}
