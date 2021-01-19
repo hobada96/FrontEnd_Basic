@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac44d96f-782c-4fd9-8d4c-03a1fc518995" name="Default Changelist" comment="algorithm examples with programmers">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m1t2CC5HUM0rorcgVrh6JQanDn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac44d96f-782c-4fd9-8d4c-03a1fc518995" name="Default Changelist" comment="" />
+      <created>1608672715517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608672715517</updated>
+      <workItem from="1608672716780" duration="3265000" />
+      <workItem from="1608739516882" duration="632000" />
+      <workItem from="1608935771551" duration="525000" />
+      <workItem from="1608936310993" duration="1588000" />
+      <workItem from="1608973966772" duration="2741000" />
+      <workItem from="1609166563490" duration="1234000" />
+      <workItem from="1609250738597" duration="739000" />
+      <workItem from="1609302817171" duration="1232000" />
+      <workItem from="1609339836830" duration="705000" />
+      <workItem from="1609578550426" duration="1427000" />
+      <workItem from="1609733694273" duration="27000" />
+      <workItem from="1609743784918" duration="1584000" />
+      <workItem from="1609768829709" duration="37000" />
+      <workItem from="1609822302185" duration="3421000" />
+      <workItem from="1609938110475" duration="2063000" />
+      <workItem from="1610070421350" duration="4208000" />
+      <workItem from="1610264506936" duration="1678000" />
+      <workItem from="1610372840857" duration="55000" />
+      <workItem from="1610456629289" duration="4159000" />
+      <workItem from="1610548214593" duration="98000" />
+      <workItem from="1610634955102" duration="68000" />
+      <workItem from="1610690455388" duration="3557000" />
+      <workItem from="1610973575070" duration="1144000" />
+      <workItem from="1611061224301" duration="4547000" />
+    </task>
+    <task id="LOCAL-00001" summary="algorithm examples with programmers">
+      <created>1608935950869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608935950869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="camouflage example with algorithm">
+      <created>1609166690696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609166690696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="setting commit">
+      <created>1609250783068</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609250783068</updated>
+    </task>
+    <task id="LOCAL-00004" summary="algorithm exam example with programmers">
+      <created>1609250878329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609250878329</updated>
+    </task>
+    <task id="LOCAL-00005" summary="algorithm example funcitonDevelop">
+      <created>1609339944421</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609339944421</updated>
+    </task>
+    <task id="LOCAL-00006" summary="twoNumberSum algorithm example">
+      <created>1609579383421</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609579383421</updated>
+    </task>
+    <task id="LOCAL-00007" summary="AcommpareB example algorithm">
+      <created>1609743930315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609743930315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sort algorithm example">
+      <created>1609845982253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609845982253</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add data type">
+      <created>1609938252653</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609938252653</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lectangle algorithm example">
+      <created>1609941187613</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609941187613</updated>
+    </task>
+    <task id="LOCAL-00011" summary="124 world algorithm example">
+      <created>1610120690582</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610120690582</updated>
+    </task>
+    <task id="LOCAL-00012" summary="algorithm snail example">
+      <created>1610372879860</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610372879860</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change Binary algorithm example">
+      <created>1610548258845</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610548258845</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add recursive algorithm example">
+      <created>1610634986509</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610634986509</updated>
+    </task>
+    <task id="LOCAL-00015" summary="algorithm example BiggestNumber">
+      <created>1610886621262</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610886621262</updated>
+    </task>
+    <task id="LOCAL-00016" summary="algorithm example h-index">
+      <created>1610886634920</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610886634920</updated>
+    </task>
+    <task id="LOCAL-00017" summary="nHex algorithm example">
+      <created>1610974930985</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610974930985</updated>
+    </task>
+    <task id="LOCAL-00018" summary="matrixMultiplication algorithm example">
+      <created>1611065719471</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611065719471</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="algorithm examples with programmers" />
+    <MESSAGE value="camouflage example with algorithm" />
+    <MESSAGE value="setting commit" />
+    <MESSAGE value="algorithm exam example with programmers" />
+    <MESSAGE value="algorithm example funcitonDevelop" />
+    <MESSAGE value="twoNumberSum algorithm example" />
+    <MESSAGE value="AcommpareB example algorithm" />
+    <MESSAGE value="Sort algorithm example" />
+    <MESSAGE value="add data type" />
+    <MESSAGE value="lectangle algorithm example" />
+    <MESSAGE value="124 world algorithm example" />
+    <MESSAGE value="algorithm snail example" />
+    <MESSAGE value="change Binary algorithm example" />
+    <MESSAGE value="add recursive algorithm example" />
+    <MESSAGE value="algorithm example BiggestNumber" />
+    <MESSAGE value="algorithm example h-index" />
+    <MESSAGE value="nHex algorithm example" />
+    <MESSAGE value="matrixMultiplication algorithm example" />
+    <option name="LAST_COMMIT_MESSAGE" value="matrixMultiplication algorithm example" />
+  </component>
+</project>
