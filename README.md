@@ -138,7 +138,6 @@
 
 1. React Native
 
-
 - #### 데스크탑 어플리케이션
 
 1. Electron
