@@ -1,0 +1,1 @@
+function solution(people, limit) {    const arr = people.sort((a,b) => a - b)    let boatCount = 0;    while(true){        if(arr.length == 0) break;        const weight = arr.pop()        if(weight+ arr[0] <= limit) arr.shift()        boatCount++;    }    return boatCount;}
