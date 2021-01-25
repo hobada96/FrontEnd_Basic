@@ -1,0 +1,1 @@
+function solution(n,record){    let answer = [];    for(let i=0;i<record.length;i++){        answer[i].push(record.map(x => x[0] === i));    }    return answer;}console.log(solution(1,["1 a","1 b","1 c","1 e"]))
