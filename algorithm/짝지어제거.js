@@ -1,0 +1,1 @@
+function solution(s){    let arr = s.split('');    while(true){        const count = rule(arr)        if(count == -1) break;    }    return 1}const rule = (arr) => {    let count = 0;    for(let i=0;i<arr.length-1;i++){        if(arr[i] === arr[i+1]){            arr.splice(i,2)            count++;        }    }    if(count != 0) return 1;    else return -1;}
