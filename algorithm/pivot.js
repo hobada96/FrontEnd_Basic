@@ -1,0 +1,1 @@
+function solution(n) {    let arr = [0,1,1]    for(let i=0;i<n-2;i++){        const num = arr[2]; //1        arr[2] = arr[1]+arr[2]; // 2        arr[0] = arr[1]; // 1        arr[1] = num; // 1    }    return arr[2] % 1234567}console.log(123124123412353454365434543234235234124324211235);
