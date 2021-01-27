@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac44d96f-782c-4fd9-8d4c-03a1fc518995" name="Default Changelist" comment="algorithm examples with programmers">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,14 @@
       <workItem from="1610634955102" duration="68000" />
       <workItem from="1610690455388" duration="3557000" />
       <workItem from="1610973575070" duration="1144000" />
-      <workItem from="1611061224301" duration="4547000" />
+      <workItem from="1611061224301" duration="5295000" />
+      <workItem from="1611150910618" duration="5499000" />
+      <workItem from="1611232699131" duration="8250000" />
+      <workItem from="1611378374424" duration="5150000" />
+      <workItem from="1611578200159" duration="856000" />
+      <workItem from="1611619721639" duration="523000" />
+      <workItem from="1611622648552" duration="1419000" />
+      <workItem from="1611669722328" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm examples with programmers">
       <created>1608935950869</created>
@@ -196,7 +204,56 @@
       <option name="project" value="LOCAL" />
       <updated>1611065719471</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="\init">
+      <created>1611065836828</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1611065836828</updated>
+    </task>
+    <task id="LOCAL-00020" summary="lifeboat algorithm example">
+      <created>1611152161339</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1611152161339</updated>
+    </task>
+    <task id="LOCAL-00021" summary="algorithm rightBracket example">
+      <created>1611233493150</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1611233493150</updated>
+    </task>
+    <task id="LOCAL-00022" summary="algorithm bigNumber example">
+      <created>1611243008283</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611243008283</updated>
+    </task>
+    <task id="LOCAL-00023" summary="kakao algorithm example">
+      <created>1611578226217</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1611578226217</updated>
+    </task>
+    <task id="LOCAL-00024" summary="algorithm example pivot">
+      <created>1611670147551</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611670147551</updated>
+    </task>
+    <task id="LOCAL-00025" summary="algorithm example delete with pare">
+      <created>1611670165242</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1611670165242</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +290,13 @@
     <MESSAGE value="algorithm example h-index" />
     <MESSAGE value="nHex algorithm example" />
     <MESSAGE value="matrixMultiplication algorithm example" />
-    <option name="LAST_COMMIT_MESSAGE" value="matrixMultiplication algorithm example" />
+    <MESSAGE value="\init" />
+    <MESSAGE value="lifeboat algorithm example" />
+    <MESSAGE value="algorithm rightBracket example" />
+    <MESSAGE value="algorithm bigNumber example" />
+    <MESSAGE value="kakao algorithm example" />
+    <MESSAGE value="algorithm example pivot" />
+    <MESSAGE value="algorithm example delete with pare" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm example delete with pare" />
   </component>
 </project>

@@ -7,9 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf027f85-7034-4a78-8835-57ab5ddd8471" name="Default" comment="react-native typeScript template init and make mono Repo with lerna">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attendence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/CalendarScreen/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/CalendarScreen/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/HomeScreen/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/HomeScreen/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\FrontEnd_Basic\AttendanceApp\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -124,6 +124,7 @@
       <workItem from="1607315958392" duration="607000" />
       <workItem from="1607661343155" duration="461000" />
       <workItem from="1609161043617" duration="174000" />
+      <workItem from="1609578533988" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="add ajax.md">
       <created>1607267361845</created>
@@ -202,6 +203,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ajax.md" />
