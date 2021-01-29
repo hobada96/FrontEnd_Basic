@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac44d96f-782c-4fd9-8d4c-03a1fc518995" name="Default Changelist" comment="algorithm examples with programmers">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +76,8 @@
       <workItem from="1611619721639" duration="523000" />
       <workItem from="1611622648552" duration="1419000" />
       <workItem from="1611669722328" duration="1045000" />
+      <workItem from="1611755820922" duration="141000" />
+      <workItem from="1611924441770" duration="728000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm examples with programmers">
       <created>1608935950869</created>
@@ -253,7 +254,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611670165242</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="log">
+      <created>1611755829066</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1611755829066</updated>
+    </task>
+    <task id="LOCAL-00027" summary="log">
+      <created>1611755922848</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611755922848</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +287,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="algorithm examples with programmers" />
     <MESSAGE value="camouflage example with algorithm" />
     <MESSAGE value="setting commit" />
     <MESSAGE value="algorithm exam example with programmers" />
@@ -297,6 +311,7 @@
     <MESSAGE value="kakao algorithm example" />
     <MESSAGE value="algorithm example pivot" />
     <MESSAGE value="algorithm example delete with pare" />
-    <option name="LAST_COMMIT_MESSAGE" value="algorithm example delete with pare" />
+    <MESSAGE value="log" />
+    <option name="LAST_COMMIT_MESSAGE" value="log" />
   </component>
 </project>
