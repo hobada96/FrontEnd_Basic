@@ -1,0 +1,1 @@
+function solution(s) {    const jadenCase = s.split(' ')    return jadenCase.map(x => jadenFunction(x)).join(' ')}const jadenFunction = (str) =>{    if(str !== ''){        return (str[0].toUpperCase() + str.slice(1).toLowerCase())    }}
