@@ -5,7 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac44d96f-782c-4fd9-8d4c-03a1fc518995" name="Default Changelist" comment="defaulut">
+      <change beforePath="$PROJECT_DIR$/../Good_developer/2장.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Good_developer/2장.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1126 알고리즘 처참한 수준.md" beforeDir="false" afterPath="$PROJECT_DIR$/js/1126 알고리즘 처참한 수준.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/124world.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/124world.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atoi.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Atoi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BiggestNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/BiggestNumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ending game.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Ending game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Knumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aCompareb.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/aCompareb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bigNumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camouflage.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/camouflage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compareAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/compareAdd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy" beforeDir="false" afterPath="$PROJECT_DIR$/js/easy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/exam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functionDevelop.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/functionDevelop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/h-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jadenCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jadenCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kakao_crain" beforeDir="false" afterPath="$PROJECT_DIR$/js/kakao_crain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kakao_crain_solve" beforeDir="false" afterPath="$PROJECT_DIR$/js/kakao_crain_solve" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lectangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lifeboat.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lifeboat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixMultiplication.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/matrixMultiplication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nHex.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/nHex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pivot.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pivot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/recursive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightBracket.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/rightBracket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skillTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/skillTree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snail.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/snail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spy.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/spy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/student.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subak.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/subak.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetres.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/tetres.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twoNumberSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/twoNumberSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이진변환반복.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/이진변환반복.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/짝지어제거.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/짝지어제거.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +68,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../movie_app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\FrontEnd_Basic\algorithm\js" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,6 +123,12 @@
       <workItem from="1612270990778" duration="602000" />
       <workItem from="1612318713458" duration="617000" />
       <workItem from="1612583676126" duration="666000" />
+      <workItem from="1614783755734" duration="61000" />
+      <workItem from="1614818818701" duration="17000" />
+      <workItem from="1614818852867" duration="600000" />
+      <workItem from="1614820048773" duration="75000" />
+      <workItem from="1615773532952" duration="734000" />
+      <workItem from="1615815555395" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm examples with programmers">
       <created>1608935950869</created>
@@ -286,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612583738684</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="algorithm example jadenCase">
+      <created>1614783802200</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1614783802200</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +359,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="algorithm exam example with programmers" />
     <MESSAGE value="algorithm example funcitonDevelop" />
     <MESSAGE value="twoNumberSum algorithm example" />
     <MESSAGE value="AcommpareB example algorithm" />
@@ -330,6 +383,7 @@
     <MESSAGE value="log" />
     <MESSAGE value="defaulut" />
     <MESSAGE value="add ending game algorithm examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ending game algorithm examples" />
+    <MESSAGE value="algorithm example jadenCase" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm example jadenCase" />
   </component>
 </project>

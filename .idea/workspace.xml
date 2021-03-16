@@ -7,14 +7,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf027f85-7034-4a78-8835-57ab5ddd8471" name="Default" comment="react-native typeScript template init and make mono Repo with lerna">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attendence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attendence/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/CalendarScreen/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/CalendarScreen/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/HomeScreen/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/front-end/mobile/screens/HomeScreen/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Good_developer/2장.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Good_developer/2장.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/1126 알고리즘 처참한 수준.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/1126 알고리즘 처참한 수준.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/124world.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/124world.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/Atoi.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/Atoi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/BiggestNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/BiggestNumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/Ending game.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/Ending game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/Knumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/Knumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/Sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/Sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/aCompareb.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/aCompareb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bigNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/bigNumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/camouflage.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/camouflage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/compareAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/compareAdd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/easy" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/easy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/exam.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/exam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/functionDevelop.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/functionDevelop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/h-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/h-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/jadenCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/jadenCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/kakao_crain" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/kakao_crain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/kakao_crain_solve" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/kakao_crain_solve" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/lectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/lectangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/lifeboat.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/lifeboat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/matrixMultiplication.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/matrixMultiplication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/nHex.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/nHex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/pivot.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/pivot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/recursive.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/recursive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/rightBracket.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/rightBracket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/skillTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/skillTree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/snail.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/snail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/spy.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/spy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/student.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/student.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/subak.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/subak.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/tetres.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/tetres.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/twoNumberSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/twoNumberSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/이진변환반복.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/이진변환반복.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/짝지어제거.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/js/짝지어제거.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +93,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie_app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\FrontEnd_Basic\AttendanceApp\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -125,6 +171,7 @@
       <workItem from="1607661343155" duration="461000" />
       <workItem from="1609161043617" duration="174000" />
       <workItem from="1609578533988" duration="15000" />
+      <workItem from="1615859197804" duration="2193000" />
     </task>
     <task id="LOCAL-00001" summary="add ajax.md">
       <created>1607267361845</created>
