@@ -1,0 +1,1 @@
+const HIDE_FLAG = 'HIDE_FLAG';const SHOW_FLAG = 'SHOW_FLAG';export const hideFlag = () => ({type: HIDE_FLAG});export const showFlag = () => ({type: SHOW_FLAG});

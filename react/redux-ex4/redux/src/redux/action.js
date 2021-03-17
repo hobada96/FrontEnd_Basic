@@ -1,0 +1,1 @@
+export const GET_SIZE = 'GET_SIZE';export const COMPARE_SIZE = 'COMPARE_SIZE';export const getSize = (size) => ({    type: GET_SIZE,    payload: size})export const compareSize = (size) => ({    type: COMPARE_SIZE,    payload: size})

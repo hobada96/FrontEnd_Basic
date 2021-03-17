@@ -1,0 +1,1 @@
+const initState = {    flag : true,}export const reducer = (state=initState,action) => {    switch(action.type){        case "SHOW_FLAG" :            return{                flag : true,            }        case "HIDE_FLAG" :            return{                flag : false            }        default : return{                flag: true        }    }}
