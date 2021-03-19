@@ -1,0 +1,1 @@
+export const GET_TEXT = 'GET_TEXT';export const getText = (text) => ({type:GET_TEXT, payload:text })

@@ -1,0 +1,1 @@
+import {GET_SIZE} from "./action";const initState = {    width : 1,    height : 1}export const reducer = (state = initState,action) => {    const {type,payload} = action;    const {width,height} = payload || {};    switch (type){        case GET_SIZE : return{            width: width,            height: height        }        default : return initState    }}
