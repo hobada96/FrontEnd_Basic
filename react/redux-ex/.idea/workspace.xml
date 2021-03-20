@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="854d52b8-fafb-4500-bb2c-2edf346db160" name="Default Changelist" comment="" />
+    <list default="true" id="854d52b8-fafb-4500-bb2c-2edf346db160" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-ex4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redux-ex4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-ex5/redux/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redux-ex5/redux/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-ex5/redux/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux-ex5/redux/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-ex5/redux/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux-ex5/redux/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-ex5/redux/src/redux/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux-ex5/redux/src/redux/reducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redux-ex2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615869603235</updated>
       <workItem from="1615869604402" duration="5230000" />
+      <workItem from="1616243801746" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm change directory">
       <created>1615875402976</created>
@@ -74,6 +82,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algorithm change directory" />
