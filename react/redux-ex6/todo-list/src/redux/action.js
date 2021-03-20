@@ -1,0 +1,1 @@
+export const SET_TODO = 'SET_TODO';export const DEL_TODO = 'DEL_TODO';export const setTodo = (payload) => ({    type : SET_TODO,    payload})export const delTodo = (payload) => ({    type : DEL_TODO,    payload})
