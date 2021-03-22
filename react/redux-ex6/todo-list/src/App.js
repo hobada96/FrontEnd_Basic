@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {useDispatch, useSelector} from "react-redux";
-import {setTodo, delTodo} from "./redux/action";
-
+import {setTodo} from "./redux";
+import {TODO} from './TODO'
 
 function App() {
     const todos = useSelector(state => state);
@@ -35,11 +35,7 @@ function App() {
             />
             {todos.map(todo =>
                 <div key={todo.id}>
-                    <h1>{todo.text}</h1>
-                    <button onClick={() => {
-                        dispatch(delTodo(todo))
-                    }}>삭제
-                    </button>
+                    <TODO todo={todo} dispatch={dispatch}></TODO>
                 </div>
             )}
         </div>
