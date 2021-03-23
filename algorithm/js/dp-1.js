@@ -1,0 +1,1 @@
+const dp = (n) => {    const exDp = [1,2,4];    for(let i=4;i<=n;i++){        exDp.push(exDp[i-4]+exDp[i-3]+exDp[i-2]);    }    return exDp}console.log(dp(7));

@@ -1,0 +1,1 @@
+const dp = (n) => {}arr = []const recursive = (sum, goal) => {    if (sum > goal){        arr.pop();        return;    }    else if (sum == goal) {        console.log(arr)        arr.pop()        return;    } else {        for (let i = 1; i <= 3; i++) {            arr.push(i)            recursive(sum + i, goal)        }        arr.pop()    }}recursive(0,4)
