@@ -1,0 +1,1 @@
+const dp = (n) => {    const arr = [1, 2, 4];    for (let i = 0; i < n-3 ;i++) {        arr.push(arr.reduce((a,b)=>a+b));        arr.shift()    }    return arr[2] % 1000000009}console.log(dp(1000))
