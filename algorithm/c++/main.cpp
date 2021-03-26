@@ -1,44 +1,33 @@
 #include <iostream>
-#include <cstdio>
 #include <vector>
-#include <string>
-
+#include <algorithm>
 using namespace std;
 
-void recursive(int i, int i1, int i2);
-
-int ctn = 0;
-vector<int> Mstack;
-
 int main() {
-    int num = 0;
-    int order = 0;
+    int repeat, goal;
+    vector<long long int> DP;
 
-    cin >> order;
-    cin >> num;
-    recursive(0, order , num);
-    if(ctn < num) cout << -1;
-    return 0;
-}
-
-void recursive(int sum, int goal,int num) {
-    if (sum > goal) {
-        Mstack.pop_back();
-        return;
-    } else if (sum == goal) {
-        ctn++;
-        if(ctn == num) {
-            for (int i = 0; i < Mstack.size(); i++) {
-                cout << Mstack[i];
-                if (i != Mstack.size() - 1) cout << '+';
-            }
+    cin >> repeat;
+    for (int i = 0; i < repeat; i++) {
+        DP.push_back(1);
+        DP.push_back(2);
+        DP.push_back(4);
+        cin >> goal;
+        if (goal <=3) {
+            cout << DP[goal - 1];
+            cout << "\n";
         }
-        Mstack.pop_back();
-        return;
+        else {
+            for (int j = 4; j <= goal; j++) {
+                DP.push_back(((DP[0] + DP[1] + DP[2]))%1000000009);
+                DP.erase(DP.begin());
+            }
+            cout << DP[DP.size() - 1] % 1000000009;
+            cout << "\n";
+            DP.clear();
+        }
+
     }
-    for (int i = 1; i <= 3; i++) {
-        Mstack.push_back(i);
-        recursive(sum + i, goal,num);
-    }
-    if (Mstack.size() != 0)Mstack.pop_back();
+
+    return 0;
 }

@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daad9242-2c51-4347-bed7-c4f3198dd8f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/dp-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/dp/dp-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/dp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/dp/dp.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/dp1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/dp/dp1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -36,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../movie_app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,7 +76,8 @@
       <workItem from="1616496478974" duration="525000" />
       <workItem from="1616505098807" duration="34000" />
       <workItem from="1616511447077" duration="3327000" />
-      <workItem from="1616593009570" duration="638000" />
+      <workItem from="1616593009570" duration="1350000" />
+      <workItem from="1616735894920" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm dp">
       <created>1616505124172</created>
@@ -70,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616505124172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dp 3">
+      <created>1616594833620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616594833620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algorithm dp" />
-    <option name="LAST_COMMIT_MESSAGE" value="algorithm dp" />
+    <MESSAGE value="dp 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dp 3" />
   </component>
 </project>

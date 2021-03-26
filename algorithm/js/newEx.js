@@ -1,0 +1,1 @@
+const arr = () => {    const arr2 = [1,2,4];    arr2.filter(x => x === 1);    arr2.sort((a,b) => a-b);    console.log();}
