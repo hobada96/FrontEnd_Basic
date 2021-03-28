@@ -127,33 +127,6 @@ c__\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c__.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\c__.dir\build
 .PHONY : c__\fast
 
-dp\dp-3.obj: dp\dp-3.cpp.obj
-
-.PHONY : dp\dp-3.obj
-
-# target to build an object file
-dp\dp-3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\c__.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\c__.dir\dp\dp-3.cpp.obj
-.PHONY : dp\dp-3.cpp.obj
-
-dp\dp-3.i: dp\dp-3.cpp.i
-
-.PHONY : dp\dp-3.i
-
-# target to preprocess a source file
-dp\dp-3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\c__.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\c__.dir\dp\dp-3.cpp.i
-.PHONY : dp\dp-3.cpp.i
-
-dp\dp-3.s: dp\dp-3.cpp.s
-
-.PHONY : dp\dp-3.s
-
-# target to generate assembly for a file
-dp\dp-3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\c__.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\c__.dir\dp\dp-3.cpp.s
-.PHONY : dp\dp-3.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -190,9 +163,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... c__
-	@echo ... dp/dp-3.obj
-	@echo ... dp/dp-3.i
-	@echo ... dp/dp-3.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

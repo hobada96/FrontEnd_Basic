@@ -82,9 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/FrontEnd_Basic/algorithm/c++/cmake-build-debug/dp/dp-3.cpp">
-			<Option target="c__"/>
-		</Unit>
 		<Unit filename="C:/FrontEnd_Basic/algorithm/c++/main.cpp">
 			<Option target="c__"/>
 		</Unit>

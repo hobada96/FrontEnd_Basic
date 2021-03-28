@@ -14,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/dp/dp-3.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/dp/dp-3.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" afterDir="false" />
@@ -24,11 +25,8 @@
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/c__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/c__.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/c__.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/c__.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/c__.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/c__.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/dp-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/dp/dp-2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/dp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/dp/dp.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/dp1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/dp/dp1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/dp/dp-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/dp/dp-3.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +64,17 @@
       <recent name="C:\FrontEnd_Basic\algorithm\js" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.newEx.js">
-    <configuration name="dp-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dp-1.js" working-dir="$PROJECT_DIR$/js">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.dp-6.js">
     <configuration name="dp-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dp-2.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
     <configuration name="dp-4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dp-4.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="dp-6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dp-6.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="dp5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dp5.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
     <configuration name="newEx.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/newEx.js" working-dir="$PROJECT_DIR$/js">
@@ -81,10 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.dp-6.js" />
+        <item itemvalue="Node.js.dp5.js" />
         <item itemvalue="Node.js.newEx.js" />
         <item itemvalue="Node.js.dp-4.js" />
         <item itemvalue="Node.js.dp-2.js" />
-        <item itemvalue="Node.js.dp-1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +143,9 @@
       <workItem from="1615815555395" duration="308000" />
       <workItem from="1616426578328" duration="3525000" />
       <workItem from="1616460196717" duration="9673000" />
-      <workItem from="1616739491847" duration="10221000" />
+      <workItem from="1616739491847" duration="16253000" />
+      <workItem from="1616902645192" duration="4003000" />
+      <workItem from="1616926213246" duration="199000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm examples with programmers">
       <created>1608935950869</created>
@@ -353,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614783802200</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add dp algorithm">
+      <created>1616767665601</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1616767665601</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +383,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="algorithm example funcitonDevelop" />
     <MESSAGE value="twoNumberSum algorithm example" />
     <MESSAGE value="AcommpareB example algorithm" />
     <MESSAGE value="Sort algorithm example" />
@@ -397,6 +407,7 @@
     <MESSAGE value="defaulut" />
     <MESSAGE value="add ending game algorithm examples" />
     <MESSAGE value="algorithm example jadenCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="algorithm example jadenCase" />
+    <MESSAGE value="add dp algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dp algorithm" />
   </component>
 </project>
