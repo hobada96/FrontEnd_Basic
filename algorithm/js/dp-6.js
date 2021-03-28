@@ -1,0 +1,1 @@
+const dp = (arr) => {    let sum_arr = [];    const result = [];    for(let i=0;i<arr.length-1;i++){        sum_arr[i] = arr[i] + arr[i+1];    }    console.log(sum_arr)}dp([40,60,50,40,30,60]);
