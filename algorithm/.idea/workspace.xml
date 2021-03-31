@@ -8,13 +8,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c++/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/dp/dp-3.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/dp/dp-3.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" afterDir="false" />
@@ -25,8 +23,10 @@
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/c__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/c__.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/c__.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/c__.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/c__.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/c__.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/cmake-build-debug/dp/dp-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/cmake-build-debug/dp/dp-3.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/redux-ex6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react/redux-ex6/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CoffeePang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -64,8 +64,8 @@
       <recent name="C:\FrontEnd_Basic\algorithm\js" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.dp-6.js">
-    <configuration name="dp-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dp-2.js" working-dir="$PROJECT_DIR$/js">
+  <component name="RunManager" selected="Node.js.bin5.js">
+    <configuration name="bin5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/binarySearch/bin5.js" working-dir="$PROJECT_DIR$/js/binarySearch">
       <method v="2" />
     </configuration>
     <configuration name="dp-4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dp-4.js" working-dir="$PROJECT_DIR$/js">
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.bin5.js" />
         <item itemvalue="Node.js.dp-6.js" />
         <item itemvalue="Node.js.dp5.js" />
         <item itemvalue="Node.js.newEx.js" />
         <item itemvalue="Node.js.dp-4.js" />
-        <item itemvalue="Node.js.dp-2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +146,9 @@
       <workItem from="1616739491847" duration="16253000" />
       <workItem from="1616902645192" duration="4003000" />
       <workItem from="1616926213246" duration="199000" />
+      <workItem from="1617121665018" duration="2664000" />
+      <workItem from="1617157509938" duration="1667000" />
+      <workItem from="1617182559241" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm examples with programmers">
       <created>1608935950869</created>

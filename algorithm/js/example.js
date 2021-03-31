@@ -1,1 +1,1 @@
-
+var operator = document.getElementById('btn-add').value;swtich (operator) {case '+' :    ans = num1 + num2;    break;case '-' :    ans = num1 - num2;    break;case '*' :    ans = num1 * num2;    break;case '/' :    ans = num1 / num2;    break;default:    break;}

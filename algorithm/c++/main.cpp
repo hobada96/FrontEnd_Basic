@@ -1,45 +1,30 @@
 #include <iostream>
 #include <algorithm>
-#include <vector>
 
 using namespace std;
-vector<long long> arr;
-
-
-int t, k;
 
 int main() {
+    int N, K;
+    int low = 1, high = K;
+    int result = -1;
+
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
 
-    cin >> t;
-
-    arr.push_back(0);
-    arr.push_back(1);
-    arr.push_back(2);
-    arr.push_back(3);
-
-    while (t--) {
-        cin >> k;
-        int j = 1;
-        for (int i = 4; i <= k; i++) {
-            if (i % 6 == 0){
-                j++;
-                arr.push_back(arr[arr.size() - 1] + j);
-            }
-            else if ((i - 1) % 6 == 0) {
-                arr.push_back(arr[arr.size() - 1] + j - 1);
-            }
-            else arr.push_back(arr[arr.size()-1] + j);
+    cin >> N >> K;
+    while (low <= high) {
+        int cnt = 0;
+        int mid = (low + high) / 2;
+        for (int i = 1; i <= N; i++)
+            cnt += min(mid / i, N); //mid보다 작은 j의 수(i * j <= mid)
+        if (cnt < K)
+            low = mid + 1;
+        else {
+            result = mid;
+            high = mid - 1;
         }
-        cout << arr[arr.size()-1];
-        cout << '\n';
-        arr.clear();
-        arr.push_back(0);
-        arr.push_back(1);
-        arr.push_back(2);
-        arr.push_back(3);
     }
+    cout << result << "\n";
     return 0;
 }

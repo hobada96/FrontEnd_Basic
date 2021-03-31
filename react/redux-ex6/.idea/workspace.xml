@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42e88c5f-16a6-4c2e-aa7b-3e4774b15c46" name="Default Changelist" comment="" />
+    <list default="true" id="42e88c5f-16a6-4c2e-aa7b-3e4774b15c46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/cmake-build-debug/c__.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/c++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/c++/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/js/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/js/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +67,7 @@
       <workItem from="1616337262990" duration="14000" />
       <workItem from="1616392643413" duration="4017000" />
       <workItem from="1616420805156" duration="560000" />
+      <workItem from="1617002402541" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="todo example">
       <created>1616250430723</created>
