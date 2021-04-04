@@ -1,0 +1,1 @@
+const bin = (arr,length) =>{    arr.sort((a,b) => b-a);    const arr2 = arr.map((a,i)=>arr[0]-a);    for(let i=0;i<arr2.length ;i++){    }    console.log(arr2);}bin([20,15,10,17],10)

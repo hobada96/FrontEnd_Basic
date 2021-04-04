@@ -1,0 +1,1 @@
+const bin = (arr , n) => {    arr.sort((a,b) => b-a);    let i=arr[0];    for(;;i=i/2){        if(arr.map(x => x / i).reduce((a, b)=>parseInt(a)+parseInt(b)) === n){          console.log(parseInt(i))          break;        }    }}bin([802,743,457,539],11);

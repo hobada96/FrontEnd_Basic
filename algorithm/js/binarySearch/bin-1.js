@@ -1,0 +1,1 @@
+const bin = (arr,arr2) => {    arr2.map(x=> console.log(arr.includes(x)));}bin([4,1,5,2,3],[1,3,9,7,5])
