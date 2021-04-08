@@ -1,68 +1,102 @@
 #include <iostream>
-#include <vector>
-#include <queue>
+#include <queue> // use bfs algorithm
+#include <stdio.h> // use printf, scanf
+#include <cstring> // use memset
+
+#define MAX_SIZE 50
+
 using namespace std;
 
-const int MAX = 20000 + 1;
-const int INF = 987654321;
-int V, E, K;
-vector<pair<int, int>> graph[MAX];
+int w, h;
+int NumberOfLand = 0;
+int graph[MAX_SIZE][MAX_SIZE];
+bool visited[MAX_SIZE][MAX_SIZE];
 
-vector<int> dijkstra(int start, int vertex)
-{
-    vector<int> distance(vertex, INF); //start를 기준으로 거리
-    distance[start] = 0; //자기 자신한테 가는 비용 0
-    priority_queue<pair<int, int>> pq; //Cost, Vertex
-    pq.push(make_pair(0, start)); //초기 비용과 시작점
-    while (!pq.empty())
-    {
-        int cost = -pq.top().first; //거리의 부호를 바꾸어 거리가 작은 정점부터 꺼내지게 하였으므로 부호를 바꿔준다
-        int curVertex = pq.top().second;
-        pq.pop();
-        //최소거리를 원하므로
-        if (distance[curVertex] < cost)
-            continue;
+// 우,하,좌,상,우상,우하,좌상,좌하
+int dw[8] = { 1, 0, -1, 0 , 1 , 1,-1,-1 };
+int dh[8] = { 0, 1, 0 , -1, -1, 1,-1, 1 };
 
-        //neighbor 다 확인
-        for (int i = 0; i < graph[curVertex].size(); i++)
-        {
-            int neighbor = graph[curVertex][i].first;
-            int neighborDistance = cost + graph[curVertex][i].second;
+void bfs(int h, int w) {
+    queue< pair<int, int> > q; // 이용할 큐, (h,w)
+    q.push(make_pair(h, w));
 
-            //최소 경로 발견시 업데이트
-            if (distance[neighbor] > neighborDistance)
-            {
-                distance[neighbor] = neighborDistance;
-                //거리의 부호를 바꾸어 거리가 작은 정점부터 꺼내지도록하기 위해
-                pq.push(make_pair(-neighborDistance, neighbor));
+    // 처음 h,w를 방문 했기 때문에
+    visited[h][w] = true;
+    while (!q.empty()) {
+        // 큐의 현재 원소를 꺼내기
+        h = q.front().first;
+        w = q.front().second;
+        q.pop();
+
+        // 해당 위치의 주변을 확인
+        for (int i = 0; i < 8; i++) {
+            int nh = h + dh[i];
+            int nw = w + dw[i];
+
+            // 지도를 벗어나지 않고,
+            if (0 <= nw && 0 <= nh && nw < MAX_SIZE && nh < MAX_SIZE) {
+                // 섬이면서 방문하지 않았다면
+                if (graph[nh][nw] && !visited[nh][nw]) {
+                    visited[nh][nw] = true;
+                    q.push(make_pair(nh, nw));
+                }
             }
         }
     }
-    return distance;
 }
 
+void dfs(int h, int w) {
+    // 처음 h,w를 방문 했기 때문에
+    visited[h][w] = true;
+
+    // 해당 위치의 주변을 확인
+    for (int i = 0; i < 8; i++) {
+        int nh = h + dh[i];
+        int nw = w + dw[i];
+
+        // 지도를 벗어나지 않고,
+        if (0 <= nw && 0 <= nh && nw < MAX_SIZE && nh < MAX_SIZE) {
+            // 섬이면서 방문하지 않았다면
+            if (graph[nh][nw] && !visited[nh][nw]) {
+                visited[nh][nw] = true;
+                dfs(nh, nw);
+            }
+        }
+    }
+}
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    cin >> V >> E >> K;
-    V++;
+    while (1) {
+        scanf("%d %d", &w, &h);
+        /* w=0 이면서 h=0이면 종료 */
+        if (!w && !h) break;
 
-    for (int i = 0; i < E; i++)
-    {
-        int source, destination, cost;
-        cin >> source >> destination >> cost;
-        graph[source].push_back(make_pair(destination, cost));
-    }
-    vector<int> result = dijkstra(K, V);
-    for (int i = 1; i < V; i++)
-    {
-        if (result[i] == INF)
-            cout << "INF\n";
-        else
-            cout << result[i] << "\n";
+        /* 그래프 정보 입력 */
+        for (int i = 0; i < h; i++) {
+            for (int j = 0; j < w; j++) {
+                scanf("%1d", &graph[i][j]);
+            }
+        }
+
+        /* 그래프를 BFS 또는 DFS를 통해 탐색 */
+        for (int i = 0; i < h; i++) {
+            for (int j = 0; j < w; j++) {
+                // 땅이 존재하고(1), 방문하지 않았을 때(0)
+                if (graph[i][j] && !visited[i][j]) {
+                    NumberOfLand++;
+                    bfs(i,j);
+                    //dfs(i, j);
+                }
+            }
+        }
+
+        /* 섬의 개수를 출력 */
+        printf("%d\n", NumberOfLand);
+
+        /* 그래프 및 방문기록, 섬의 개수 초기화 */
+        memset(graph, false, sizeof(graph));
+        memset(visited, false, sizeof(visited));
+        NumberOfLand = 0;
     }
     return 0;
 }
-
