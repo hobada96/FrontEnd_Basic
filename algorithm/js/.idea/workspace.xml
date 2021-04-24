@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daad9242-2c51-4347-bed7-c4f3198dd8f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.pdb" afterDir="false" />
@@ -47,11 +38,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CoffeePang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/CoffeePang" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.bin6.js">
+  <component name="RunManager" selected="Node.js.example.js">
     <configuration name="bin-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/binarySearch/bin-1.js" working-dir="$PROJECT_DIR$/binarySearch">
       <method v="2" />
     </configuration>
@@ -61,8 +52,12 @@
     <configuration name="dp-3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dp-3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="example.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.example.js" />
         <item itemvalue="Node.js.bin6.js" />
         <item itemvalue="Node.js.bin-1.js" />
         <item itemvalue="Node.js.dp-3.js" />
@@ -85,6 +80,9 @@
       <workItem from="1616994220302" duration="2173000" />
       <workItem from="1617000737873" duration="965000" />
       <workItem from="1617001721262" duration="188000" />
+      <workItem from="1618418200026" duration="1145000" />
+      <workItem from="1618500513711" duration="3532000" />
+      <workItem from="1618547003991" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm dp">
       <created>1616505124172</created>

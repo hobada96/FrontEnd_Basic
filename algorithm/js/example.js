@@ -1,1 +1,1 @@
-var operator = document.getElementById('btn-add').value;swtich (operator) {case '+' :    ans = num1 + num2;    break;case '-' :    ans = num1 - num2;    break;case '*' :    ans = num1 * num2;    break;case '/' :    ans = num1 / num2;    break;default:    break;}
+const apple = 'apple';const grape = 'grape';const money1 = 2000;const money2 = 1000;console.log(`${1000}`);
