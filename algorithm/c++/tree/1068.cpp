@@ -2,7 +2,6 @@
 #include <vector>
 
 using namespace std;
-
 #define MAX 51
 
 vector<int> vec[MAX];
