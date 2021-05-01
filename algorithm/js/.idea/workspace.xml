@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daad9242-2c51-4347-bed7-c4f3198dd8f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/CMakeFiles/c__.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/cmake-build-debug/c__.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/11725.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/11725.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +34,22 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.example.js">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\FrontEnd_Basic\algorithm\js\greed" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.42884.js">
+    <configuration name="11725.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tree/11725.js" working-dir="$PROJECT_DIR$/tree">
+      <method v="2" />
+    </configuration>
+    <configuration name="42884.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/greed/42884.js" working-dir="$PROJECT_DIR$/greed">
+      <method v="2" />
+    </configuration>
     <configuration name="bin-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/binarySearch/bin-1.js" working-dir="$PROJECT_DIR$/binarySearch">
       <method v="2" />
     </configuration>
     <configuration name="bin6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/binarySearch/bin6.js" working-dir="$PROJECT_DIR$/binarySearch">
-      <method v="2" />
-    </configuration>
-    <configuration name="dp-3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dp-3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="example.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example.js" working-dir="$PROJECT_DIR$">
@@ -55,10 +57,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.42884.js" />
+        <item itemvalue="Node.js.11725.js" />
         <item itemvalue="Node.js.example.js" />
         <item itemvalue="Node.js.bin6.js" />
         <item itemvalue="Node.js.bin-1.js" />
-        <item itemvalue="Node.js.dp-3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -82,6 +85,8 @@
       <workItem from="1618500513711" duration="3532000" />
       <workItem from="1618547003991" duration="64000" />
       <workItem from="1619399930155" duration="646000" />
+      <workItem from="1619794697509" duration="9360000" />
+      <workItem from="1619835058311" duration="3805000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm dp">
       <created>1616505124172</created>
