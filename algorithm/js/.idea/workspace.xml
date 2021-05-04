@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="daad9242-2c51-4347-bed7-c4f3198dd8f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/11725.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/11725.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/example.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,6 +28,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -86,7 +88,8 @@
       <workItem from="1618547003991" duration="64000" />
       <workItem from="1619399930155" duration="646000" />
       <workItem from="1619794697509" duration="9360000" />
-      <workItem from="1619835058311" duration="3805000" />
+      <workItem from="1619835058311" duration="6478000" />
+      <workItem from="1620057476578" duration="7978000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm dp">
       <created>1616505124172</created>
@@ -102,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616594833620</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="algorithm">
+      <created>1619873392188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619873392188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algorithm dp" />
     <MESSAGE value="dp 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="dp 3" />
+    <MESSAGE value="algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm" />
   </component>
 </project>
