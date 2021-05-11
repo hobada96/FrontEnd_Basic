@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="daad9242-2c51-4347-bed7-c4f3198dd8f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/example.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -89,7 +88,8 @@
       <workItem from="1619399930155" duration="646000" />
       <workItem from="1619794697509" duration="9360000" />
       <workItem from="1619835058311" duration="6478000" />
-      <workItem from="1620057476578" duration="7978000" />
+      <workItem from="1620057476578" duration="9192000" />
+      <workItem from="1620738370322" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm dp">
       <created>1616505124172</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619873392188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <created>1620134231804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620134231804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +141,7 @@
     <MESSAGE value="algorithm dp" />
     <MESSAGE value="dp 3" />
     <MESSAGE value="algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="algorithm" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
