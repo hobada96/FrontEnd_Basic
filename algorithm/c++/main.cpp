@@ -1,34 +1,38 @@
-#include<iostream>
-#include<vector>
-#include<map>
-
+#include <iostream>
+#include <math.h>
+#include <vector>
 using namespace std;
+int L, W, H, N, a, b, cnt = 0, fail = 0;
+int cube[20];
+vector <pair<int, int>> v; //2의 a승과 그 개수를 저장
 
-map<int,vector<int>> mp;
-map<int,vector<int>> child;
-map<int,int> root;
-
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(0); cout.tie(0);
-
-    int par,chil;
-
-    while(true){
-        cin >> par >> chil;
-        if(par == 0 && chil == 0){
-            break;
+void divide(int l, int w, int h, int idx) {
+    if (l == 0 || w == 0 || h == 0) return;
+    for (int i = idx; i < v.size(); i++) {
+        if (v[i].second != 0 && l >= v[i].first && w >= v[i].first && h >= v[i].first) {
+            v[i].second--;
+            cnt++;
+            divide(l - v[i].first, w, h, i);
+            divide(v[i].first, w - v[i].first, h, i);
+            divide(v[i].first, v[i].first, h - v[i].first, i);
+            return;
         }
-        mp[par].push_back(chil);
-        child[chil].push_back(1);
-        if(child[chil].size() == 2) {
-            cout << "꺼져";
-            return 0;
-        }
-        //부모 존재, 자식 넣기
-        // 자식에 두번나오면 끝
     }
-    //
-
+    fail = 1;
+}
+int main() {
+    cin >> L >> W >> H >> N;
+    for (int n = 0; n < N; n++) {
+        cin >> a >> b;
+        cube[a] += b;
+    }
+    for (int i = 19; i >= 0; i--) {
+        if (cube[i] != 0) {
+            v.push_back(make_pair(pow(2, i), cube[i]));
+        }
+    }
+    divide(L, W, H, 0);
+    if (fail) cout << -1;
+    else cout << cnt << endl;
     return 0;
 }

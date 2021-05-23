@@ -6,10 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf027f85-7034-4a78-8835-57ab5ddd8471" name="Default" comment="react-native typeScript template init and make mono Repo with lerna">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/redux-ex/redux/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/redux-ex/redux/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="cf027f85-7034-4a78-8835-57ab5ddd8471" name="Default" comment="react-native typeScript template init and make mono Repo with lerna" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/react/redux-ex6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -142,6 +139,7 @@
       <workItem from="1616031545680" duration="162000" />
       <workItem from="1616337280171" duration="390000" />
       <workItem from="1616374901738" duration="1486000" />
+      <workItem from="1620738426258" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="add ajax.md">
       <created>1607267361845</created>
@@ -178,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616337302830</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1620738439683</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620738439683</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -235,6 +240,7 @@
     <MESSAGE value="react-native typeScript template init and make mono Repo with lerna" />
     <MESSAGE value="add algorithm examples" />
     <MESSAGE value="add config" />
-    <option name="LAST_COMMIT_MESSAGE" value="add config" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
